@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973132064823",
+    "firebase_url": "https://mymy-bfbef.firebaseio.com",
+    "project_id": "mymy-bfbef",
+    "storage_bucket": "mymy-bfbef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973132064823:android:30fef3d871689909",
+        "android_client_info": {
+          "package_name": "org.techtown.mymy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973132064823-sos3vh2a7k0djpp7ig2ocq80up9t649u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.techtown.mymy",
+            "certificate_hash": "b33780d3b6f5b7ec5f05e998ab6b257e13eb5f6e"
+          }
+        },
+        {
+          "client_id": "973132064823-5oael76lip90ll9auq5ohf2feu4vv2fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNjwZzyMttGu-Uom_dFwTcjY8KzCBnXDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973132064823-5oael76lip90ll9auq5ohf2feu4vv2fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
